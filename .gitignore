@@ -17,8 +17,11 @@ profile
 *.moved-aside
 DerivedData
 *.hmap
-*.ipa
 UserInterfaceState.xcuserstate
+
+# Build
+*.ipa
+*.dSYM.zip
 
 # CocoaPods
 Pods
